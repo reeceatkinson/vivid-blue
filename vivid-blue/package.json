@@ -1,0 +1,31 @@
+{
+    "name": "vivid-blue",
+    "displayName": "Vivid Blue",
+    "description": "Vivid blue is a colour theme that adds bright colours to your VS Code environment.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "publisher": "reece",
+    "author": "Reece Atkinson",
+    "icon": "icon.png",
+    "repository": "https://github.com/reeceatkinson/vivid-blue",
+    "galleryBanner": {
+      "color": "#0000FF",
+      "theme": "light"
+    },
+    "changelog": "./changelog.md",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vivid Blue",
+                "uiTheme": "vs",
+                "path": "./themes/Vivid Blue-color-theme.json"
+            }
+        ]
+    }
+}
