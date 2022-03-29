@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "vivid-blue"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+![image](https://user-images.githubusercontent.com/78908925/160690467-02d2606e-904c-49e3-9750-92b928a96a5c.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Contributing to the theme
+The theme is open sourced on GitHub so you can edit the code freely. https://github.com/reeceatkinson/vivid-blue
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Submitting an issue
+You can submit an issue by pressing Issues on the GitHub Repo or use the link here: https://github.com/reeceatkinson/vivid-blue/issues/new
 
-**Enjoy!**
+## Previewing the theme
+You can preview the theme using vscode.dev (https://vscode.dev/theme/reece.vivid-blue/Electric%20Purple)
+
+## How to install
+- Open the Extensions sidebar panel in VS Code. View → Extensions
+- Search for Vivid Blue
+- Click Install
+- When prompted, select Electric Purple as the color theme
+In case of not being prompted to select a Colour Theme upon installing, go to the menu bar and select: Code (File, on Windows) > Preferences > Color Theme > Vivid Blue. Alternatively, you can use the shortcut ⌘/Ctrl + K > ⌘/Ctrl + T and select Vivid Blue.
