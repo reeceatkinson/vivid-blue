@@ -1,4 +1,7 @@
 ![image](https://user-images.githubusercontent.com/78908925/160690467-02d2606e-904c-49e3-9750-92b928a96a5c.png)
+![image](https://user-images.githubusercontent.com/78908925/160690923-c06ce76b-a446-48bc-af6e-020fb2ad3f6f.png)
+![image](https://user-images.githubusercontent.com/78908925/160691026-e5c73a9f-4e3b-4d23-a3e3-6139c6f73f0d.png)
+
 
 ## Contributing to the theme
 The theme is open sourced on GitHub so you can edit the code freely. https://github.com/reeceatkinson/vivid-blue
